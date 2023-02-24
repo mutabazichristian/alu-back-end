@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#this is a script that takes in a system argument as employee id and iterates through an api to find out which tasks he has completed
 import requests
 import sys
 
